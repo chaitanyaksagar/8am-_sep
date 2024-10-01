@@ -1,2 +1,6 @@
+practice for video
+
 \\DESKTOP-PP3A6I5\PBI project\
 VINAYTECH_BUSINESS_PAYMENT_DETAILS_DATAMODEL_DATASET.xlsx
+
+Power Bi service session
